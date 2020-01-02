@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/DatingApp30/DatingApp.API/datingapp.db-shm
+/DatingApp30/DatingApp.API/datingapp.db-wal
